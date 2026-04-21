@@ -1,13 +1,38 @@
-import express from 'express'
+import express from "express";
+import {
+  createUser,
+  loginUser,
+  logoutCurrentUser,
+  getAllUsers,
+  getCurrentUserProfile,
+  updateCurrentUserProfile,
+  deleteUserById,
+  getUserById,
+  updateUserById,
+} from "../controllers/userController.js";
+
+import { authenticate, authorizeAdmin } from "../middlewares/authMiddleware.js";
+
 const router = express.Router();
-import { authUsers , registerUser ,getUserProfile , updateUserProfile , getUser , deleteUser , getUserById , updateUser} from '../controllers/userControllers.js'
-import {protect , admin } from '../middlewear/authMiddlewear.js'
 
+router
+  .route("/")
+  .post(createUser)
+  .get(authenticate, authorizeAdmin, getAllUsers);
 
-router.route('/').post( registerUser).get(protect, admin ,getUser)
-router.post('/login' , authUsers)
-router.route('/profile').get(protect,getUserProfile).put(protect ,updateUserProfile)
-router.route('/:id').delete(protect, admin ,deleteUser).get(protect, admin ,getUserById).put(protect ,admin,  updateUser) 
+router.post("/auth", loginUser);
+router.post("/logout", logoutCurrentUser);
 
+router
+  .route("/profile")
+  .get(authenticate, getCurrentUserProfile)
+  .put(authenticate, updateCurrentUserProfile);
 
-export default router
+// ADMIN ROUTES 👇
+router
+  .route("/:id")
+  .delete(authenticate, authorizeAdmin, deleteUserById)
+  .get(authenticate, authorizeAdmin, getUserById)
+  .put(authenticate, authorizeAdmin, updateUserById);
+
+export default router;

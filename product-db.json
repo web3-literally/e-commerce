@@ -1,0 +1,285 @@
+{ 
+    "_id" : ObjectId("69e7c7a734b33833e9ad87a6"), 
+    "name" : "External Hard Drive 1TB", 
+    "image" : "/uploads\\image-1776797580424.jpg", 
+    "brand" : "DataStore", 
+    "quantity" : NumberInt(35), 
+    "category" : ObjectId("69e7c77d34b33833e9ad879d"), 
+    "description" : "Portable 1TB external hard drive USB 3.0.", 
+    "rating" : NumberInt(0), 
+    "numReviews" : NumberInt(0), 
+    "price" : 599.99, 
+    "countInStock" : NumberInt(35), 
+    "reviews" : [
+
+    ], 
+    "createdAt" : ISODate("2026-04-21T18:53:27.391+0000"), 
+    "updatedAt" : ISODate("2026-04-21T18:53:27.391+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("69e7c96bc1ba3be2ab8d187d"), 
+    "name" : "External Hard Drive 1TB", 
+    "image" : "/uploads\\image-1776797580424 (4).jpg", 
+    "brand" : "DataStore", 
+    "quantity" : NumberInt(35), 
+    "category" : ObjectId("69e7c77d34b33833e9ad879d"), 
+    "description" : "Portable 1TB external hard drive USB 3.0.", 
+    "rating" : NumberInt(0), 
+    "numReviews" : NumberInt(0), 
+    "price" : 599.99, 
+    "countInStock" : NumberInt(35), 
+    "reviews" : [
+
+    ], 
+    "createdAt" : ISODate("2026-04-21T18:53:27.391+0000"), 
+    "updatedAt" : ISODate("2026-04-21T18:53:27.391+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("69e7c971c1ba3be2ab8d187e"), 
+    "name" : "External Hard Drive 1TB", 
+    "image" : "/uploads\\image-1776797580424 (5).jpg", 
+    "brand" : "DataStore", 
+    "quantity" : NumberInt(35), 
+    "category" : ObjectId("69e7c77d34b33833e9ad879d"), 
+    "description" : "Portable 1TB external hard drive USB 3.0.", 
+    "rating" : NumberInt(0), 
+    "numReviews" : NumberInt(0), 
+    "price" : 599.99, 
+    "countInStock" : NumberInt(35), 
+    "reviews" : [
+
+    ], 
+    "createdAt" : ISODate("2026-04-21T18:53:27.391+0000"), 
+    "updatedAt" : ISODate("2026-04-21T18:53:27.391+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("69e7c974c1ba3be2ab8d187f"), 
+    "name" : "External Hard Drive 1TB", 
+    "image" : "/uploads\\image-1776797580424 (6).jpg", 
+    "brand" : "DataStore", 
+    "quantity" : NumberInt(35), 
+    "category" : ObjectId("69e7c77d34b33833e9ad879d"), 
+    "description" : "Portable 1TB external hard drive USB 3.0.", 
+    "rating" : NumberInt(0), 
+    "numReviews" : NumberInt(0), 
+    "price" : 599.99, 
+    "countInStock" : NumberInt(35), 
+    "reviews" : [
+
+    ], 
+    "createdAt" : ISODate("2026-04-21T18:53:27.391+0000"), 
+    "updatedAt" : ISODate("2026-04-21T18:53:27.391+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("69e7c977c1ba3be2ab8d1880"), 
+    "name" : "External Hard Drive 1TB", 
+    "image" : "/uploads\\image-1776797580424 (7).jpg", 
+    "brand" : "DataStore", 
+    "quantity" : NumberInt(35), 
+    "category" : ObjectId("69e7c77d34b33833e9ad879d"), 
+    "description" : "Portable 1TB external hard drive USB 3.0.", 
+    "rating" : NumberInt(0), 
+    "numReviews" : NumberInt(0), 
+    "price" : 599.99, 
+    "countInStock" : NumberInt(35), 
+    "reviews" : [
+
+    ], 
+    "createdAt" : ISODate("2026-04-21T18:53:27.391+0000"), 
+    "updatedAt" : ISODate("2026-04-21T18:53:27.391+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("69e7c9f1c1ba3be2ab8d1881"), 
+    "name" : "External Hard Drive 1TB", 
+    "image" : "/uploads\\image-1776797580424 (8).jpg", 
+    "brand" : "DataStore", 
+    "quantity" : NumberInt(35), 
+    "category" : ObjectId("69e7c77d34b33833e9ad879d"), 
+    "description" : "Portable 1TB external hard drive USB 3.0.", 
+    "rating" : NumberInt(0), 
+    "numReviews" : NumberInt(0), 
+    "price" : 599.99, 
+    "countInStock" : NumberInt(35), 
+    "reviews" : [
+
+    ], 
+    "createdAt" : ISODate("2026-04-21T18:53:27.391+0000"), 
+    "updatedAt" : ISODate("2026-04-21T18:53:27.391+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("69e7c9f4c1ba3be2ab8d1882"), 
+    "name" : "External Hard Drive 1TB", 
+    "image" : "/uploads\\image-1776797580424 (9).jpg", 
+    "brand" : "DataStore", 
+    "quantity" : NumberInt(35), 
+    "category" : ObjectId("69e7c77d34b33833e9ad879d"), 
+    "description" : "Portable 1TB external hard drive USB 3.0.", 
+    "rating" : NumberInt(0), 
+    "numReviews" : NumberInt(0), 
+    "price" : 599.99, 
+    "countInStock" : NumberInt(35), 
+    "reviews" : [
+
+    ], 
+    "createdAt" : ISODate("2026-04-21T18:53:27.391+0000"), 
+    "updatedAt" : ISODate("2026-04-21T18:53:27.391+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("69e7c9f5c1ba3be2ab8d1883"), 
+    "name" : "External Hard Drive 1TB", 
+    "image" : "/uploads\\image-1776797580424 (10).jpg", 
+    "brand" : "DataStore", 
+    "quantity" : NumberInt(35), 
+    "category" : ObjectId("69e7c77d34b33833e9ad879d"), 
+    "description" : "Portable 1TB external hard drive USB 3.0.", 
+    "rating" : NumberInt(0), 
+    "numReviews" : NumberInt(0), 
+    "price" : 599.99, 
+    "countInStock" : NumberInt(35), 
+    "reviews" : [
+
+    ], 
+    "createdAt" : ISODate("2026-04-21T18:53:27.391+0000"), 
+    "updatedAt" : ISODate("2026-04-21T18:53:27.391+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("69e7c9f8c1ba3be2ab8d1884"), 
+    "name" : "External Hard Drive 1TB", 
+    "image" : "/uploads\\image-1776797580424 (12).jpg", 
+    "brand" : "DataStore", 
+    "quantity" : NumberInt(35), 
+    "category" : ObjectId("69e7c77d34b33833e9ad879d"), 
+    "description" : "Portable 1TB external hard drive USB 3.0.", 
+    "rating" : NumberInt(0), 
+    "numReviews" : NumberInt(0), 
+    "price" : 599.99, 
+    "countInStock" : NumberInt(35), 
+    "reviews" : [
+
+    ], 
+    "createdAt" : ISODate("2026-04-21T18:53:27.391+0000"), 
+    "updatedAt" : ISODate("2026-04-21T18:53:27.391+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("69e7c9f9c1ba3be2ab8d1885"), 
+    "name" : "External Hard Drive 1TB", 
+    "image" : "/uploads\\image-1776797580424 (13).jpg", 
+    "brand" : "DataStore", 
+    "quantity" : NumberInt(35), 
+    "category" : ObjectId("69e7c77d34b33833e9ad879d"), 
+    "description" : "Portable 1TB external hard drive USB 3.0.", 
+    "rating" : NumberInt(0), 
+    "numReviews" : NumberInt(0), 
+    "price" : 599.99, 
+    "countInStock" : NumberInt(35), 
+    "reviews" : [
+
+    ], 
+    "createdAt" : ISODate("2026-04-21T18:53:27.391+0000"), 
+    "updatedAt" : ISODate("2026-04-21T18:53:27.391+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("69e7c9fac1ba3be2ab8d1886"), 
+    "name" : "External Hard Drive 1TB", 
+    "image" : "/uploads\\image-1776797580424 (14).jpg", 
+    "brand" : "DataStore", 
+    "quantity" : NumberInt(35), 
+    "category" : ObjectId("69e7c77d34b33833e9ad879d"), 
+    "description" : "Portable 1TB external hard drive USB 3.0.", 
+    "rating" : NumberInt(0), 
+    "numReviews" : NumberInt(0), 
+    "price" : 599.99, 
+    "countInStock" : NumberInt(35), 
+    "reviews" : [
+
+    ], 
+    "createdAt" : ISODate("2026-04-21T18:53:27.391+0000"), 
+    "updatedAt" : ISODate("2026-04-21T18:53:27.391+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("69e7c9fac1ba3be2ab8d1887"), 
+    "name" : "External Hard Drive 1TB", 
+    "image" : "/uploads\\image-1776797580424 (15).jpg", 
+    "brand" : "DataStore", 
+    "quantity" : NumberInt(35), 
+    "category" : ObjectId("69e7c77d34b33833e9ad879d"), 
+    "description" : "Portable 1TB external hard drive USB 3.0.", 
+    "rating" : NumberInt(0), 
+    "numReviews" : NumberInt(0), 
+    "price" : 599.99, 
+    "countInStock" : NumberInt(35), 
+    "reviews" : [
+
+    ], 
+    "createdAt" : ISODate("2026-04-21T18:53:27.391+0000"), 
+    "updatedAt" : ISODate("2026-04-21T18:53:27.391+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("69e7c9fbc1ba3be2ab8d1888"), 
+    "name" : "External Hard Drive 1TB", 
+    "image" : "/uploads\\image-1776797580424 (1).jpg", 
+    "brand" : "DataStore", 
+    "quantity" : NumberInt(35), 
+    "category" : ObjectId("69e7c77d34b33833e9ad879d"), 
+    "description" : "Portable 1TB external hard drive USB 3.0.", 
+    "rating" : NumberInt(0), 
+    "numReviews" : NumberInt(0), 
+    "price" : 599.99, 
+    "countInStock" : NumberInt(35), 
+    "reviews" : [
+
+    ], 
+    "createdAt" : ISODate("2026-04-21T18:53:27.391+0000"), 
+    "updatedAt" : ISODate("2026-04-21T18:53:27.391+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("69e7ca6dc1ba3be2ab8d1889"), 
+    "name" : "External Hard Drive 1TB", 
+    "image" : "/uploads\\image-1776797580424 (2).jpg", 
+    "brand" : "DataStore", 
+    "quantity" : NumberInt(35), 
+    "category" : ObjectId("69e7c77d34b33833e9ad879d"), 
+    "description" : "Portable 1TB external hard drive USB 3.0.", 
+    "rating" : NumberInt(0), 
+    "numReviews" : NumberInt(0), 
+    "price" : 599.99, 
+    "countInStock" : NumberInt(35), 
+    "reviews" : [
+
+    ], 
+    "createdAt" : ISODate("2026-04-21T18:53:27.391+0000"), 
+    "updatedAt" : ISODate("2026-04-21T18:53:27.391+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("69e7ca6ec1ba3be2ab8d188a"), 
+    "name" : "External Hard Drive 1TB", 
+    "image" : "/uploads\\image-1776797580424 (3).jpg", 
+    "brand" : "DataStore", 
+    "quantity" : NumberInt(35), 
+    "category" : ObjectId("69e7c77d34b33833e9ad879d"), 
+    "description" : "Portable 1TB external hard drive USB 3.0.", 
+    "rating" : NumberInt(0), 
+    "numReviews" : NumberInt(0), 
+    "price" : 599.99, 
+    "countInStock" : NumberInt(35), 
+    "reviews" : [
+
+    ], 
+    "createdAt" : ISODate("2026-04-21T18:53:27.391+0000"), 
+    "updatedAt" : ISODate("2026-04-21T18:53:27.391+0000"), 
+    "__v" : NumberInt(0)
+}
